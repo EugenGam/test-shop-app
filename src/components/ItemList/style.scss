@@ -1,0 +1,25 @@
+.itemList__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  width: 290px;
+  padding-top: 20px;
+  margin-bottom: 50px;
+}
+
+@media screen and (min-width: 768px) {
+  .itemList__container {
+    justify-content: space-between;
+    padding-top: 107px;
+    width: 740px;
+    margin-bottom: 100px;
+  }
+}
+
+@media screen and (min-width: 1240px) {
+  .itemList__container {
+    width: 90%;
+  }
+}
