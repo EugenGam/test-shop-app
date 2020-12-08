@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test-shop-app/static/css/main.53e1641f.chunk.css",
+    "main.js": "/test-shop-app/static/js/main.45c348b8.chunk.js",
+    "main.js.map": "/test-shop-app/static/js/main.45c348b8.chunk.js.map",
+    "runtime-main.js": "/test-shop-app/static/js/runtime-main.3302515c.js",
+    "runtime-main.js.map": "/test-shop-app/static/js/runtime-main.3302515c.js.map",
+    "static/js/2.af15e901.chunk.js": "/test-shop-app/static/js/2.af15e901.chunk.js",
+    "static/js/2.af15e901.chunk.js.map": "/test-shop-app/static/js/2.af15e901.chunk.js.map",
+    "index.html": "/test-shop-app/index.html",
+    "static/css/main.53e1641f.chunk.css.map": "/test-shop-app/static/css/main.53e1641f.chunk.css.map",
+    "static/js/2.af15e901.chunk.js.LICENSE.txt": "/test-shop-app/static/js/2.af15e901.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/test-shop-app/static/media/status_ok.4155d4d2.svg",
+    "static/media/main.scss": "/test-shop-app/static/media/roboto-v20-latin_cyrillic-regular.f3cc56e1.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3302515c.js",
+    "static/js/2.af15e901.chunk.js",
+    "static/css/main.53e1641f.chunk.css",
+    "static/js/main.45c348b8.chunk.js"
+  ]
+}
