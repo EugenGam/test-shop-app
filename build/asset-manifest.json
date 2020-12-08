@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9529b1b5.chunk.css",
+    "main.js": "/static/js/main.45c348b8.chunk.js",
+    "main.js.map": "/static/js/main.45c348b8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6097e04a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6097e04a.js.map",
+    "static/js/2.af15e901.chunk.js": "/static/js/2.af15e901.chunk.js",
+    "static/js/2.af15e901.chunk.js.map": "/static/js/2.af15e901.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9529b1b5.chunk.css.map": "/static/css/main.9529b1b5.chunk.css.map",
+    "static/js/2.af15e901.chunk.js.LICENSE.txt": "/static/js/2.af15e901.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/static/media/status_ok.4155d4d2.svg",
+    "static/media/main.scss": "/static/media/roboto-v20-latin_cyrillic-regular.f3cc56e1.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6097e04a.js",
+    "static/js/2.af15e901.chunk.js",
+    "static/css/main.9529b1b5.chunk.css",
+    "static/js/main.45c348b8.chunk.js"
+  ]
+}
